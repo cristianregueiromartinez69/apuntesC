@@ -1,0 +1,15 @@
+C:\Users\crm23\OneDrive\Escritorio\dam2Clase\ApuntesC#\genericos\bin\Debug\net9.0\genericos.exe
+C:\Users\crm23\OneDrive\Escritorio\dam2Clase\ApuntesC#\genericos\bin\Debug\net9.0\genericos.deps.json
+C:\Users\crm23\OneDrive\Escritorio\dam2Clase\ApuntesC#\genericos\bin\Debug\net9.0\genericos.runtimeconfig.json
+C:\Users\crm23\OneDrive\Escritorio\dam2Clase\ApuntesC#\genericos\bin\Debug\net9.0\genericos.dll
+C:\Users\crm23\OneDrive\Escritorio\dam2Clase\ApuntesC#\genericos\bin\Debug\net9.0\genericos.pdb
+C:\Users\crm23\OneDrive\Escritorio\dam2Clase\ApuntesC#\genericos\obj\Debug\net9.0\genericos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crm23\OneDrive\Escritorio\dam2Clase\ApuntesC#\genericos\obj\Debug\net9.0\genericos.AssemblyInfoInputs.cache
+C:\Users\crm23\OneDrive\Escritorio\dam2Clase\ApuntesC#\genericos\obj\Debug\net9.0\genericos.AssemblyInfo.cs
+C:\Users\crm23\OneDrive\Escritorio\dam2Clase\ApuntesC#\genericos\obj\Debug\net9.0\genericos.csproj.CoreCompileInputs.cache
+C:\Users\crm23\OneDrive\Escritorio\dam2Clase\ApuntesC#\genericos\obj\Debug\net9.0\genericos.sourcelink.json
+C:\Users\crm23\OneDrive\Escritorio\dam2Clase\ApuntesC#\genericos\obj\Debug\net9.0\genericos.dll
+C:\Users\crm23\OneDrive\Escritorio\dam2Clase\ApuntesC#\genericos\obj\Debug\net9.0\refint\genericos.dll
+C:\Users\crm23\OneDrive\Escritorio\dam2Clase\ApuntesC#\genericos\obj\Debug\net9.0\genericos.pdb
+C:\Users\crm23\OneDrive\Escritorio\dam2Clase\ApuntesC#\genericos\obj\Debug\net9.0\genericos.genruntimeconfig.cache
+C:\Users\crm23\OneDrive\Escritorio\dam2Clase\ApuntesC#\genericos\obj\Debug\net9.0\ref\genericos.dll
