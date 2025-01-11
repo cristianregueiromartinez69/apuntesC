@@ -1,0 +1,15 @@
+C:\Users\crm23\OneDrive\Escritorio\dam2Clase\ApuntesC#\herencia\bin\Debug\net9.0\herencia.exe
+C:\Users\crm23\OneDrive\Escritorio\dam2Clase\ApuntesC#\herencia\bin\Debug\net9.0\herencia.deps.json
+C:\Users\crm23\OneDrive\Escritorio\dam2Clase\ApuntesC#\herencia\bin\Debug\net9.0\herencia.runtimeconfig.json
+C:\Users\crm23\OneDrive\Escritorio\dam2Clase\ApuntesC#\herencia\bin\Debug\net9.0\herencia.dll
+C:\Users\crm23\OneDrive\Escritorio\dam2Clase\ApuntesC#\herencia\bin\Debug\net9.0\herencia.pdb
+C:\Users\crm23\OneDrive\Escritorio\dam2Clase\ApuntesC#\herencia\obj\Debug\net9.0\herencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crm23\OneDrive\Escritorio\dam2Clase\ApuntesC#\herencia\obj\Debug\net9.0\herencia.AssemblyInfoInputs.cache
+C:\Users\crm23\OneDrive\Escritorio\dam2Clase\ApuntesC#\herencia\obj\Debug\net9.0\herencia.AssemblyInfo.cs
+C:\Users\crm23\OneDrive\Escritorio\dam2Clase\ApuntesC#\herencia\obj\Debug\net9.0\herencia.csproj.CoreCompileInputs.cache
+C:\Users\crm23\OneDrive\Escritorio\dam2Clase\ApuntesC#\herencia\obj\Debug\net9.0\herencia.sourcelink.json
+C:\Users\crm23\OneDrive\Escritorio\dam2Clase\ApuntesC#\herencia\obj\Debug\net9.0\herencia.dll
+C:\Users\crm23\OneDrive\Escritorio\dam2Clase\ApuntesC#\herencia\obj\Debug\net9.0\refint\herencia.dll
+C:\Users\crm23\OneDrive\Escritorio\dam2Clase\ApuntesC#\herencia\obj\Debug\net9.0\herencia.pdb
+C:\Users\crm23\OneDrive\Escritorio\dam2Clase\ApuntesC#\herencia\obj\Debug\net9.0\herencia.genruntimeconfig.cache
+C:\Users\crm23\OneDrive\Escritorio\dam2Clase\ApuntesC#\herencia\obj\Debug\net9.0\ref\herencia.dll

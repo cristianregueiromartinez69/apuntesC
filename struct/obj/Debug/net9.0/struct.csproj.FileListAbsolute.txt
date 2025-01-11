@@ -1,0 +1,15 @@
+C:\Users\crm23\OneDrive\Escritorio\dam2Clase\ApuntesC#\struct\bin\Debug\net9.0\struct.exe
+C:\Users\crm23\OneDrive\Escritorio\dam2Clase\ApuntesC#\struct\bin\Debug\net9.0\struct.deps.json
+C:\Users\crm23\OneDrive\Escritorio\dam2Clase\ApuntesC#\struct\bin\Debug\net9.0\struct.runtimeconfig.json
+C:\Users\crm23\OneDrive\Escritorio\dam2Clase\ApuntesC#\struct\bin\Debug\net9.0\struct.dll
+C:\Users\crm23\OneDrive\Escritorio\dam2Clase\ApuntesC#\struct\bin\Debug\net9.0\struct.pdb
+C:\Users\crm23\OneDrive\Escritorio\dam2Clase\ApuntesC#\struct\obj\Debug\net9.0\struct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crm23\OneDrive\Escritorio\dam2Clase\ApuntesC#\struct\obj\Debug\net9.0\struct.AssemblyInfoInputs.cache
+C:\Users\crm23\OneDrive\Escritorio\dam2Clase\ApuntesC#\struct\obj\Debug\net9.0\struct.AssemblyInfo.cs
+C:\Users\crm23\OneDrive\Escritorio\dam2Clase\ApuntesC#\struct\obj\Debug\net9.0\struct.csproj.CoreCompileInputs.cache
+C:\Users\crm23\OneDrive\Escritorio\dam2Clase\ApuntesC#\struct\obj\Debug\net9.0\struct.sourcelink.json
+C:\Users\crm23\OneDrive\Escritorio\dam2Clase\ApuntesC#\struct\obj\Debug\net9.0\struct.dll
+C:\Users\crm23\OneDrive\Escritorio\dam2Clase\ApuntesC#\struct\obj\Debug\net9.0\refint\struct.dll
+C:\Users\crm23\OneDrive\Escritorio\dam2Clase\ApuntesC#\struct\obj\Debug\net9.0\struct.pdb
+C:\Users\crm23\OneDrive\Escritorio\dam2Clase\ApuntesC#\struct\obj\Debug\net9.0\struct.genruntimeconfig.cache
+C:\Users\crm23\OneDrive\Escritorio\dam2Clase\ApuntesC#\struct\obj\Debug\net9.0\ref\struct.dll

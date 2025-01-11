@@ -1,0 +1,15 @@
+C:\Users\crm23\OneDrive\Escritorio\dam2Clase\ApuntesC#\claseObject\bin\Debug\net9.0\claseObject.exe
+C:\Users\crm23\OneDrive\Escritorio\dam2Clase\ApuntesC#\claseObject\bin\Debug\net9.0\claseObject.deps.json
+C:\Users\crm23\OneDrive\Escritorio\dam2Clase\ApuntesC#\claseObject\bin\Debug\net9.0\claseObject.runtimeconfig.json
+C:\Users\crm23\OneDrive\Escritorio\dam2Clase\ApuntesC#\claseObject\bin\Debug\net9.0\claseObject.dll
+C:\Users\crm23\OneDrive\Escritorio\dam2Clase\ApuntesC#\claseObject\bin\Debug\net9.0\claseObject.pdb
+C:\Users\crm23\OneDrive\Escritorio\dam2Clase\ApuntesC#\claseObject\obj\Debug\net9.0\claseObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crm23\OneDrive\Escritorio\dam2Clase\ApuntesC#\claseObject\obj\Debug\net9.0\claseObject.AssemblyInfoInputs.cache
+C:\Users\crm23\OneDrive\Escritorio\dam2Clase\ApuntesC#\claseObject\obj\Debug\net9.0\claseObject.AssemblyInfo.cs
+C:\Users\crm23\OneDrive\Escritorio\dam2Clase\ApuntesC#\claseObject\obj\Debug\net9.0\claseObject.csproj.CoreCompileInputs.cache
+C:\Users\crm23\OneDrive\Escritorio\dam2Clase\ApuntesC#\claseObject\obj\Debug\net9.0\claseObject.sourcelink.json
+C:\Users\crm23\OneDrive\Escritorio\dam2Clase\ApuntesC#\claseObject\obj\Debug\net9.0\claseObject.dll
+C:\Users\crm23\OneDrive\Escritorio\dam2Clase\ApuntesC#\claseObject\obj\Debug\net9.0\refint\claseObject.dll
+C:\Users\crm23\OneDrive\Escritorio\dam2Clase\ApuntesC#\claseObject\obj\Debug\net9.0\claseObject.pdb
+C:\Users\crm23\OneDrive\Escritorio\dam2Clase\ApuntesC#\claseObject\obj\Debug\net9.0\claseObject.genruntimeconfig.cache
+C:\Users\crm23\OneDrive\Escritorio\dam2Clase\ApuntesC#\claseObject\obj\Debug\net9.0\ref\claseObject.dll
